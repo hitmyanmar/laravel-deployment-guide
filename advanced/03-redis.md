@@ -18,7 +18,7 @@ In this guide, we'll configure Redis on our Ubuntu VPS and connect it to an exis
 
 Official documentation:
 - https://redis.io/docs/latest/
-- https://laravel.com/docs/12.x/redis
+- https://laravel.com/docs/redis
 
 ---
 
