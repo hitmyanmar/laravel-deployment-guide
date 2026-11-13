@@ -20,8 +20,6 @@ In this guide, we'll configure Laravel Reverb on an Ubuntu VPS using **CloudPane
 - Supervisor installed (see the previous advanced chapter).
 - Laravel broadcasting configured in your application.
 
-Official documentation: https://laravel.com/docs/12.x/reverb
-
 ---
 
 ## 1. Install Laravel Reverb
