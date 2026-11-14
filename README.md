@@ -189,6 +189,16 @@ Back up important data before making significant changes.
 
 ---
 
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+Copyright © 2026 HiT Myanmar.
+
+
+---
+
 **Happy Deploying!**
 
 Made with ❤️ by [HiT Myanmar](https://hitmyanmar.com)
